@@ -7,3 +7,4 @@ Anyway, I have quit my job there, so don't care too much but thought I'd throw t
 
 
 [Disclaimer: This is fictional and used for a Capture the Flag challenge. No real code was stolen and Flammingberg's is a fictional company. Dummy code was copied from a public project with a BSD-3 license.]
+
